@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Páginas principales -->
+    <url>
+        <loc>https://www.ietvar.edu.pe/</loc>
+        <lastmod>2023-11-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Páginas de trastornos visuales -->
+    <url>
+        <loc>https://www.ietvar.edu.pe/svi.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.ietvar.edu.pe/miopia_transitoria.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.ietvar.edu.pe/fotofobia.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.ietvar.edu.pe/efecto_tetris.html</loc>
+        <lastmod>2023-11-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Futuras páginas (ejemplo) -->
+    <url>
+        <loc>https://www.ietvar.edu.pe/investigacion.html</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://www.ietvar.edu.pe/contacto.html</loc>
+        <lastmod>2023-11-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+</urlset>
